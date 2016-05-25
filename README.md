@@ -1,7 +1,5 @@
-#Flatfy - Theme | New Version!
+# Vaad Noar website
 
-##Responsive Mobile & Flat Design 
-Own Carousel & Bootstrap Framework CSS 
-Font Icon Svg & Animate
+Live @ http://http://moshav-noar.github.io/
 
-Theme made by [Andrea Galanti](http://www.andreagalanti.it/flatfy.php)
+## Theme made by [Andrea Galanti](http://www.andreagalanti.it/flatfy.php)
