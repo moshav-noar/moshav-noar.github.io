@@ -46,7 +46,7 @@ jspm_packages
 
 # Icon must end with two \r
 Icon
-
+!icon/
 
 # Thumbnails
 ._*
