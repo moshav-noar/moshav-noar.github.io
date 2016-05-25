@@ -45,8 +45,9 @@ jspm_packages
 .LSOverride
 
 # Icon must end with two \r
-Icon
-!icon/
+# Nevermind, conflicts...
+# Icon
+
 
 # Thumbnails
 ._*
