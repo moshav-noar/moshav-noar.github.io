@@ -435,6 +435,8 @@
 			<form role="form" action="https://formspree.io/moshav.noar@gmail.com" method="post" >
         <input type="hidden" name="_subject" value="Contact from site" />
         <input type="text" name="_gotcha" style="display:none" />
+        <input type="hidden" name="_next" value="http://noar.mevo-modiim.com/form-thanks.html" />
+
 				<div class="col-md-6">
 					<div class="form-group">
 						<label for="InputName">Your Name</label>
@@ -447,10 +449,13 @@
 					<div class="form-group">
 						<label for="InputEmail">Your Email</label>
 						<div class="input-group">
-							<input type="email" class="form-control" id="InputEmail" name="_replyto" placeholder="Enter Email" required  >
+							<input type="text" class="form-control" id="InputEmail" name="email" placeholder="Enter Email" required  >
 							<span class="input-group-addon"><i class="glyphicon glyphicon-ok form-control-feedback"></i></span>
 						</div>
 					</div>
+
+
+
 
 					<div class="form-group">
 						<label for="InputMessage">Message</label>
